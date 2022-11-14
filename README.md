@@ -1,8 +1,17 @@
-# California-Housing-Price-Prediction
-This project is going to develop California-Housing-Price-Prediction using the Machine Learning Algorithms
+# California-Housing-Price-Prediction - Deployment
+
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.10](https://img.shields.io/badge/Python-3.10-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-NLTK-orange.svg)
 
 Welcome to the California Housing Corporation for Machine Learning! The first task is to create a model of California property prices using census data. Each California census tract's demographics and economics are broken down here, with numbers like population, average income, and average home cost at the fingertips. Block groups (a block group generally has a population of 600 to 3,000 persons) are the smallest geographic unit for which the United States Census Bureau publishes sample data; these groupings are referred to as "districts" for reference. With the use of this Machine Learning model, this program would be able to make educated guesses about the median home price in each neighborhood, given the other data.
 
+
+• This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ on ___Heroku___ platform.
+
+## web app:
+
+![GIF](readme_resources/spam-sms-web-app.gif)
+## [Cloud-App: Heroku](https://spam-ham-detection1.herokuapp.com/)
+![Heroku-webapp](readme_resources/spam-ham-Heroku.png)
 
 
 Main step for machine Learning Projects.
