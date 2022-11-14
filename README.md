@@ -4,7 +4,7 @@
 
 Welcome to the California Housing Corporation for Machine Learning! The first task is to create a model of California property prices using census data. Each California census tract's demographics and economics are broken down here, with numbers like population, average income, and average home cost at the fingertips. Block groups (a block group generally has a population of 600 to 3,000 persons) are the smallest geographic unit for which the United States Census Bureau publishes sample data; these groupings are referred to as "districts" for reference. With the use of this Machine Learning model, this program would be able to make educated guesses about the median home price in each neighborhood, given the other data.
 
-
+Dataset Link: https://www.kaggle.com/datasets/camnugent/california-housing-prices
 ## web app
 
 ![GIF](readme_resources/housing_price.gif)
